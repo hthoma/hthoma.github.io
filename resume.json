@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Harry Thomasian",
+    "label": "Aspiring Software Developer",
+    "picture": "",
+    "email": "hthoma12@students.towson.edu",
+    "phone": "4436326201",
+    "website": "http://github.com/hthoma",
+    "summary": "I have always been facinated with technology and its ability to solve problems in new ways. Throughout my formal education I have worked with many different technologies but found I am most interested in web based technology and mobile applications. I continue to pursue knowledge and experience in both these areas and hope to soon enter the workforce as a software developer after I graduate in December.",
+    "location": {
+      "address": "Homeland",
+      "postalCode": "21212",
+      "city": "Baltimore",
+      "countryCode": "US",
+      "region": "MD"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "harry.thomasian",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "hthoma",
+        "url": "github.com/hthoma"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Prometric",
+      "position": "Software Development Intern",
+      "website": "http://Prometric.com",
+      "startDate": "2018-06-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Work with a Microsoft tech stack (C#, ASP.NET, IIS, TFS) to maintain legacy applications that are deployed worldwide","Develop in-house software using web technologies such as React and Node.js","Regularly interact with senior management and developers to receive feedback and gather requirements" ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Towson University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014-09-01",
+      "endDate": "2018-12-01",
+      "gpa": "3.36",
+      "majorGpa": "3.7",
+      "courses": ["Database Systems", "Data Structures and Algorithms", "Mobile Application Development", "Web Based Programming", "Artificial Intelligence", "Data Communication and Networking","Software Engineering"]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Node",
+        "MongoDB",
+        "Java",
+        "Android",
+        "C#",
+        "SQLite",
+        "MySQL",
+        "Git",
+        "TFS",
+        "Agile"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "projects": [
+    {
+      "project": "MDYG Delegatewatch",
+      "website": "https://github.com/hthoma/MDYG-Database-App",
+      "startDate": "Summer 2017",
+      "endDate": "Spring 2018",
+      "summary": "",
+      "highlights": ["Built GUI Java application with JavaFX interfaced with a MySQL database that allows program administrators to edit, add, search and maintain student data","Worked with database architect and design team to build application and database from the ground up","Maintained and updated application based on proactive communications with program administrators"]
+    },
+    {
+      "project": "Weatherscan",
+      "website": "https://github.com/hthoma/Weatherscan",
+      "startDate": "Fall 2017",
+      "endDate": "Fall 2017",
+      "summary": "",
+      "highlights": ["Developed weather application built natively for android devices in Android Studio","Utilized threading, recycler view, fragments, databases, intents, location services, and a REST API.","Constructed unit tests with Mockito and functional tests with Espresso"]
+    },
+    {
+      "project": "Bitcard",
+      "website": "https://github.com/hthoma/Bitcard",
+      "startDate": "Fall 2017",
+      "endDate": "Fall 2017",
+      "summary": "",
+      "highlights": ["Developed simple bitcoin wallet built natively for android devices using the BitcoinJ library","Participated in Agile development environment as a Part-time Scrum Master","Worked with team to design application, create advertising material, and build user documentation"]
+    }
+
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    },
+    {
+      "name": "Travel",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
